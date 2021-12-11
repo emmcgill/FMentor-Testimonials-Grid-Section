@@ -22,7 +22,7 @@
 }
 
 body {
-    background-color: var(--clr-neu-light-gray);
+    background-color: var(--clr-neu-light-grayish-blue);
     font-size: var(--fs-13px);
     font-family: var(--ff-barlow);
 }
