@@ -82,7 +82,7 @@ main > .testimonials-wrapper > .testimonial > .review {
 
 main > .testimonials-wrapper > .clifford {
     background-color: var(--clr-primary-violet);
-    background-image: url(/images/bg-pattern-quotation.svg);
+    background-image: url(images/bg-pattern-quotation.svg);
     background-repeat: no-repeat;
     background-position: 90% top;
     color: var(--clr-primary-white);
